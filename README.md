@@ -3,15 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/sahil___009" target="blank"><img src="https://img.shields.io/twitter/follow/sahil___009?logo=twitter&style=for-the-badge" alt="sahil___009" /></a> </p>
 
-- 🔭 I’m currently working on **Jan-Seva-Bot**
-
 - 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 📫 How to reach me **sahilsalunkhe.25@gmail.com**
 
-- ⚡ Fun fact **I love to sleep :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
