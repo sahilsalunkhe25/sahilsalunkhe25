@@ -15,7 +15,7 @@
 <a href="https://instagram.com/__sahilsalunkhe_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sahilsalunkhe_07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahilsalunkhe_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahilsalunkhe_25" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sahilsalunkhe25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahilsalunkhe25" height="30" width="40" /></a>
-<a href="https://leetcode.com/sahil_25/" target="blank"><img align="center" src="!https://github.com/sahilsalunkhe25/sahilsalunkhe25/assets/105069915/722658bb-7f34-4e6d-988b-d0d6cae26477" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/sahil_25/" target="blank"><img align="center" src="https://github.com/sahilsalunkhe25/sahilsalunkhe25/assets/105069915/6bc873de-506e-4771-9124-e0082ce16d4f" alt="leetcode" height="30" width="40" /></a>
 
 </p>
 
